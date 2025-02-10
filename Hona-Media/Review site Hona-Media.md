@@ -4,7 +4,7 @@
 
 ### Page d'accueil
 
-![](C:\Users\Robin\AppData\Roaming\marktext\images\2025-02-10-18-55-30-image.png)
+![](img/2025-02-10-18-55-30-image.png)
 
 Mauvaise de l'écriture bonne évasion dû à la couleur
 
@@ -18,13 +18,13 @@ Solutions possible:
 
 * mettre un fond solide comme plus bas
 
-![](C:\Users\Robin\AppData\Roaming\marktext\images\2025-02-10-19-46-18-image.png)
+![](img/2025-02-10-19-46-18-image.png)
 
 Au niveau des timbres j'aurais mis un effet pour montrer que c'est cliquable en plus de la souris en `pointer`
 
 Après ça marche bien comme ça c'est juste un plus.
 
-![](C:\Users\Robin\AppData\Roaming\marktext\images\2025-02-10-19-50-52-image.png)
+![](img/2025-02-10-19-50-52-image.png)
 
 Rafraichissement de la page au clic sur suivant ou précédent, avec une belle animation de transition.
 
@@ -32,45 +32,45 @@ De plus l'animation au survole de l'article est contre intuitif avec le fait que
 
 ### Exploration
 
-![](C:\Users\Robin\AppData\Roaming\marktext\images\2025-02-10-20-01-39-image.png)
+![](img/2025-02-10-20-01-39-image.png)
 
 Pas d'indication sur la hiérarchie des page que ce soit dans l'url ou sur la page ici `Explorer & Partager > Afrique` pas obligatoire mais recommandé.
 
-![](C:\Users\Robin\AppData\Roaming\marktext\images\2025-02-10-20-06-55-image.png)
+![](img/2025-02-10-20-06-55-image.png)
 
 Ici au chargement dû à l'utilisation d'une police non monospace, au chargement de la page les encadrés changent de taille.
 
 Une solution peut-être de cacher un chiffre quand ils défilent ou de mettre une autre police mais ça n'irait plus ave le reste du site
 
-![](C:\Users\Robin\AppData\Roaming\marktext\images\2025-02-10-20-12-54-image.png)
+![](img/2025-02-10-20-12-54-image.png)
 
 Carte non cliquable
 
 Soit c'est parce que les pays n'ont pas encore d'articles mais alors faudrait pas mettre des pays pour le moment au dessus. Et mettre un à venir.
 
-![](C:\Users\Robin\AppData\Roaming\marktext\images\2025-02-10-20-16-13-image.png)
+![](img/2025-02-10-20-16-13-image.png)
 
-![](C:\Users\Robin\AppData\Roaming\marktext\images\2025-02-10-20-15-55-image.png)
+![](img/2025-02-10-20-15-55-image.png)
 
 Sur la banderole orange j'aurais bien vu un fond en orange écrit Afrique pour faire un rappel au Hona de la page d'accueil.
 
 ### Page article
 
-![](C:\Users\Robin\AppData\Roaming\marktext\images\2025-02-10-20-23-50-image.png)  
+![](img/2025-02-10-20-23-50-image.png)  
 
 Lisibilité de l'auteur, de la date et du lieu après pas très important c'est du texte secondaire
 
-![](C:\Users\Robin\AppData\Roaming\marktext\images\2025-02-10-20-27-52-image.png)
+![](img/2025-02-10-20-27-52-image.png)
 
 Je ne sais pas comment les articles sont généré mais ça pourrait être intéressant de faire en sorte à ce qu'elle soit dans le même style que la première.
 
-![](C:\Users\Robin\AppData\Roaming\marktext\images\2025-02-10-20-34-39-image.png)
+![](img/2025-02-10-20-34-39-image.png)
 
 Dans le même esprit les espaces autour des photos
 
 ### Mentions Légales
 
-![](C:\Users\Robin\AppData\Roaming\marktext\images\2025-02-10-20-37-16-image.png)
+![](img/2025-02-10-20-37-16-image.png)
 
 On s'en fou c'est les mentions légales mais quand même 😂
 
